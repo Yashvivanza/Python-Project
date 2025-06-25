@@ -1,22 +1,15 @@
 import os
 
-# Step 1: Get all .py files in the current directory
-files = [f for f in os.listdir() if f.endswith(".py")]
+# Get all Python files and sort them alphabetically
+files = sorted([f for f in os.listdir() if f.endswith(".py")])
 
-# Step 2: Sort them alphabetically
-files.sort()
-
-# Step 3: Rename each file with [01], [02], etc.
 for i, file in enumerate(files):
-    number = f"[{i + 1:02}]"
+    # Format number with leading zeros like [01], [02], ...
+    new_name = f"[{i + 1:02}] {file}"
 
-    # Remove old prefix like [12] if present
-    name = file
-    if name.startswith('[') and ']' in name:
-        name = name.split('] ', 1)[1]
+    # Remove existing prefix if already renamed before
+    if file.startswith("[") and "]" in file:
+        original_name = file.split("] ", 1)[1]
+        new_name = f"[{i + 1:02}] {original_name}"
 
-    new_name = f"{number} {name}"
-
-    if new_name != file:  # Avoid unnecessary renaming
-        print(f"Renaming: {file} -> {new_name}")
-        os.rename(file, new_name)
+    os.rename(file, new_name)

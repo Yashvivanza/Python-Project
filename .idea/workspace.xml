@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33eb4976-ffd8-4811-93e2-1d5dee625d0b" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/[17] Function Argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[18] Introduction to List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[19] List Methods in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[20] Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[21] Tuples Methods in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[22] Examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[23] KBC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[24] f-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[25] Docstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[26] PEP 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[27] Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[28] Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[29] Sets Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[30] Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[31] Dictonary Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[32] For Loop with else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[33] Exception Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[34] FInal Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[35] Raising Custom Errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[36] ShortHand If else statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[37] Enumeration Function in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[38] Virtual Environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[39] How import works in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[40] Idiom if __name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[41] OS Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oslist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rename_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[10] Strings Method.py" beforeDir="false" afterPath="$PROJECT_DIR$/[10] Strings Method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[11] If Else Conditional Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/[11] If Else Conditional Statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[12] Match Case Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/[12] Match Case Statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[13] For Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/[13] For Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[14] While Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/[14] While Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[16] Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/[16] Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[1] First.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[2] Comment, Escape &amp; Print Statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[3] Variables and Data Type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[4] Arithmetic Operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[5] Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[6] Type Casting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[7] String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[8] Strings Slicing and Operations on Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[9] Taking User Input.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yashvivanza&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yashvivanza/Python-Project.git&quot;,
+    &quot;accountId&quot;: &quot;25e51973-16ed-46b2-982e-da2d1d50a697&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yY27L9LpQnxUk1cu0p2t3wIiQ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Break and continue statements.executor": "Run",
+    "Python.Comment, Escape & Print Statement.executor": "Run",
+    "Python.First.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.Strings Slicing and Operations on Strings.executor": "Run",
+    "Python.Taking User Input.executor": "Run",
+    "Python.[10] Strings Method.executor": "Run",
+    "Python.[11] If Else Conditional Statements.executor": "Run",
+    "Python.[12] Match Case Statements.executor": "Run",
+    "Python.[13] For Loop.executor": "Run",
+    "Python.[14] While Loop.executor": "Run",
+    "Python.[16] Functions.executor": "Run",
+    "Python.[17] Function Argument.executor": "Run",
+    "Python.[18] Introduction to List.executor": "Run",
+    "Python.[19] List Methods in Python.executor": "Run",
+    "Python.[20] Tuples.executor": "Run",
+    "Python.[21] Tuples Methods in Python.executor": "Run",
+    "Python.[22] Examples.executor": "Run",
+    "Python.[23] KBC.executor": "Run",
+    "Python.[24] f-strings.executor": "Run",
+    "Python.[25] Docstrings.executor": "Run",
+    "Python.[27] Recursion.executor": "Run",
+    "Python.[28] Sets.executor": "Run",
+    "Python.[30] Sets Methods.executor": "Run",
+    "Python.[31] Dictionaries.executor": "Run",
+    "Python.[32] Dictonary Methods.executor": "Run",
+    "Python.[33] For Loop with else.executor": "Run",
+    "Python.[34] Exception Handling.executor": "Run",
+    "Python.[35] FInal Keyword.executor": "Run",
+    "Python.[36] Raising Custom Errors.executor": "Run",
+    "Python.[36] Raising Custom Erros.executor": "Run",
+    "Python.[37] ShortHand If else statements.executor": "Run",
+    "Python.[38] Enumeration Function in Python.executor": "Run",
+    "Python.[40] How import works in Python.executor": "Run",
+    "Python.[41]  Idiom if__name.executor": "Run",
+    "Python.[41] Idiom if __name.executor": "Run",
+    "Python.[41] Idiom if__name.executor": "Run",
+    "Python.[41] OS Module (1).executor": "Run",
+    "Python.[41] OS Module.executor": "Run",
+    "Python.[42] OS Module.executor": "Run",
+    "Python.[44] rename_files.executor": "Run",
+    "Python.oslist.executor": "Run",
+    "Python.rename_files.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.rename_files">
+    <configuration name="[41] OS Module (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[41] OS Module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[41] OS Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\Python-Project\[41] OS Module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oslist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oslist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rename_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\Python-Project\rename_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rename_files" />
+        <item itemvalue="Python.[44] rename_files" />
+        <item itemvalue="Python.[41] OS Module (1)" />
+        <item itemvalue="Python.oslist" />
+        <item itemvalue="Python.[41] OS Module" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33eb4976-ffd8-4811-93e2-1d5dee625d0b" name="Changes" comment="" />
+      <created>1749997019075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749997019075</updated>
+      <workItem from="1749997020537" duration="39092000" />
+      <workItem from="1750316065093" duration="12473000" />
+      <workItem from="1750356467683" duration="5309000" />
+      <workItem from="1750408381660" duration="6832000" />
+      <workItem from="1750483171888" duration="20847000" />
+      <workItem from="1750670529066" duration="415000" />
+      <workItem from="1750677945726" duration="5674000" />
+      <workItem from="1750754012171" duration="4450000" />
+      <workItem from="1750770711918" duration="2510000" />
+      <workItem from="1750848837051" duration="9083000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1750003052102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750003052102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/[19] List methods in python.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/[34] Final keyword.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/[39] How import works in python.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/[41] Os module.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Project$_24__f_strings.coverage" NAME="[24] f-strings Coverage Results" MODIFIED="1750446537278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_41__OS_Module__1_.coverage" NAME="[41] OS Module (1) Coverage Results" MODIFIED="1750862011469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_13__For_Loop.coverage" NAME="[13] For Loop Coverage Results" MODIFIED="1750165097610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_42__OS_Module.coverage" NAME="[41] OS Module Coverage Results" MODIFIED="1750861570296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_16__Functions.coverage" NAME="[16] Functions Coverage Results" MODIFIED="1750251949205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_10__Strings_Method.coverage" NAME="[10] Strings Method Coverage Results" MODIFIED="1750085213976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_30__Sets_Methods.coverage" NAME="[30] Sets Methods Coverage Results" MODIFIED="1750584703204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_17__Function_Argument.coverage" NAME="[17] Function Argument Coverage Results" MODIFIED="1750320408615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_25__Docstrings.coverage" NAME="[25] Docstrings Coverage Results" MODIFIED="1750483308951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Taking_User_Input.coverage" NAME="Taking User Input Coverage Results" MODIFIED="1750044312164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_22__Examples.coverage" NAME="[22] Examples Coverage Results" MODIFIED="1750410945616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_44__rename_files.coverage" NAME="rename_files Coverage Results" MODIFIED="1750866639637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_35__FInal_Keyword.coverage" NAME="[35] FInal Keyword Coverage Results" MODIFIED="1750680475674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_11__If_Else_Conditional_Statements.coverage" NAME="[11] If Else Conditional Statements Coverage Results" MODIFIED="1750158994166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_41___Idiom_if__name.coverage" NAME="[41] Idiom if __name Coverage Results" MODIFIED="1750856441817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$oslist.coverage" NAME="oslist Coverage Results" MODIFIED="1750861981829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_20__Tuples.coverage" NAME="[20] Tuples Coverage Results" MODIFIED="1750342107926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_12__Match_Case_Statements.coverage" NAME="[12] Match Case Statements Coverage Results" MODIFIED="1750164111385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_32__Dictonary_Methods.coverage" NAME="[32] Dictonary Methods Coverage Results" MODIFIED="1750589167753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_37__ShortHand_If_else_statements.coverage" NAME="[37] ShortHand If else statements Coverage Results" MODIFIED="1750755861500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_23__KBC.coverage" NAME="[23] KBC Coverage Results" MODIFIED="1750754826431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_18__Introduction_to_List.coverage" NAME="[18] Introduction to List Coverage Results" MODIFIED="1750322766472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$First.coverage" NAME="First Coverage Results" MODIFIED="1749997109352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_36__Raising_Custom_Errors.coverage" NAME="[36] Raising Custom Errors Coverage Results" MODIFIED="1750754427614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$String.coverage" NAME="String Coverage Results" MODIFIED="1750061126117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Strings_Slicing_and_Operations_on_Strings.coverage" NAME="Strings Slicing and Operations on Strings Coverage Results" MODIFIED="1750063570688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_14__While_Loop.coverage" NAME="[14] While Loop Coverage Results" MODIFIED="1750240837426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_33__For_Loop_with_else.coverage" NAME="[33] For Loop with else Coverage Results" MODIFIED="1750590143559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Break_and_continue_statements.coverage" NAME="Break and continue statements Coverage Results" MODIFIED="1750241154510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Comment__Escape___Print_Statement.coverage" NAME="Comment, Escape &amp; Print Statement Coverage Results" MODIFIED="1749997196901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_36__Raising_Custom_Erros.coverage" NAME="[36] Raising Custom Erros Coverage Results" MODIFIED="1750681560898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_27__Recursion.coverage" NAME="[27] Recursion Coverage Results" MODIFIED="1750488281186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_40__How_import_works_in_Python.coverage" NAME="[40] How import works in Python Coverage Results" MODIFIED="1750855746650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_21__Tuples_Methods_in_Python.coverage" NAME="[21] Tuples Methods in Python Coverage Results" MODIFIED="1750409706726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$rename_files.coverage" NAME="rename_files Coverage Results" MODIFIED="1750866131122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_19__List_Methods_in_Python.coverage" NAME="[19] List Methods in Python Coverage Results" MODIFIED="1750339716447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_38__Enumeration_Function_in_Python.coverage" NAME="[38] Enumeration Function in Python Coverage Results" MODIFIED="1750756927615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_28__Sets.coverage" NAME="[28] Sets Coverage Results" MODIFIED="1750515764291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_31__Dictionaries.coverage" NAME="[31] Dictionaries Coverage Results" MODIFIED="1750588600270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$_34__Exception_Handling.coverage" NAME="[34] Exception Handling Coverage Results" MODIFIED="1750679098641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
